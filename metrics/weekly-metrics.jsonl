@@ -446,3 +446,19 @@
   "unk_done": 71,
   "source": "snapshot"
 }
+{
+  "week": "2026-03-08",
+  "bugs_new": 101,
+  "bugs_ip": 0,
+  "bugs_blk": 0,
+  "bugs_done": 5,
+  "ideas_new": 16,
+  "ideas_ip": 2,
+  "ideas_blk": 1,
+  "ideas_done": 6,
+  "unk_new": 3,
+  "unk_ip": 0,
+  "unk_blk": 0,
+  "unk_done": 72,
+  "source": "snapshot"
+}
